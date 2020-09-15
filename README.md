@@ -20,6 +20,7 @@
 [<img align="left" alt="ChenXJ98 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ChenXJ98 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ChenXJ98 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ChenXJ98 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
 
@@ -60,4 +61,5 @@
 [twitter]: https://twitter.com/XingjianChen
 [youtube]: https://www.youtube.com/channel/UCX7GZyagYbP-Ge90EII-0-g
 [instagram]: https://www.instagram.com/whatxingjianwhat
+[facebook]: https://www.facebook.com/legendary.chen
 [linkedin]: https://linkedin.com/in/xingjian-chen-0166691b3
