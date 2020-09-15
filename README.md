@@ -11,7 +11,8 @@
 ---
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="ChenXJ98 Spotify Playing" width="350" />](https://open.spotify.com/user/11158349923)
+
+[![Spotify](https://novatorem.chenxj98.vercel.app/api/spotify)](https://open.spotify.com/user/11158349923)
 
 ### Connect with me:
 
