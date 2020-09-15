@@ -1,4 +1,4 @@
-### Hi there, I'm Xingjian - aka [ChenXJ98][website] 👋
+### Hi there, I'm Xingjian - aka [ChenXJ98][github] 👋
 
 ## I'm a Computer Science Student, and an aspiring Developer!
 
@@ -12,6 +12,15 @@
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="ChenXJ98 Spotify Playing" width="350" />](https://open.spotify.com/user/11158349923)
+
+### Connect with me:
+
+[<img align="left" alt="ChenXJ98 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="ChenXJ98 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="ChenXJ98 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ChenXJ98 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
 
 ### 📺 Latest YouTube Videos
 
@@ -45,5 +54,9 @@
 
 </details>
 
-[website]: https://github.com/ChenXJ98
+[github]: https://github.com/ChenXJ98
 [taskbot]: https://github.com/ChenXJ98/ip
+[twitter]: https://twitter.com/XingjianChen
+[youtube]: https://www.youtube.com/channel/UCX7GZyagYbP-Ge90EII-0-g
+[instagram]: https://www.instagram.com/whatxingjianwhat
+[linkedin]: https://linkedin.com/in/xingjian-chen-0166691b3
