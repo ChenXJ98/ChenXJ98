@@ -16,6 +16,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Nier: Automata OST - Original SoundTrack (Part 2)](https://www.youtube.com/watch?v=kJAGPLrQxig)
+- [Nier: Automata OST - Original SoundTrack (Part 1)](https://www.youtube.com/watch?v=El6N2R4Xpsk)
+- [Sonatina in G, Op. 168, No. 6 - Diabelli (Chen Jingxuan)](https://www.youtube.com/watch?v=XIPNeNLhVWA)
+- [Gipsy Rondo in G - Haydn (Mariana Xiao)](https://www.youtube.com/watch?v=rnCdH11ppRg)
+- [Sonata in C minor (Pathetique) Op.13, 1st Mov. - Beethoven (Wang Jiehao)](https://www.youtube.com/watch?v=VtcOuvI_wmA)
 <!-- YOUTUBE:END -->
 
 ---
