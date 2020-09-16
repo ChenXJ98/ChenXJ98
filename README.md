@@ -40,11 +40,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com//AY2021S1-CS2103T-T13-2/tp/pull/3) in [AY2021S1-CS2103T-T13-2/tp](https://github.com//AY2021S1-CS2103T-T13-2/tp)
-2. 🎉 Merged PR [#2](https://github.com//ChenXJ98/ip/pull/2) in [ChenXJ98/ip](https://github.com//ChenXJ98/ip)
-3. 💪 Opened PR [#2](https://github.com//ChenXJ98/ip/pull/2) in [ChenXJ98/ip](https://github.com//ChenXJ98/ip)
-4. 🎉 Merged PR [#1](https://github.com//ChenXJ98/ip/pull/1) in [ChenXJ98/ip](https://github.com//ChenXJ98/ip)
-5. 💪 Opened PR [#1](https://github.com//ChenXJ98/ip/pull/1) in [ChenXJ98/ip](https://github.com//ChenXJ98/ip)
+1. 🎉 Merged PR [#5](https://github.com//AY2021S1-CS2103T-T13-2/tp/pull/5) in [AY2021S1-CS2103T-T13-2/tp](https://github.com//AY2021S1-CS2103T-T13-2/tp)
+2. 💪 Opened PR [#3](https://github.com//AY2021S1-CS2103T-T13-2/tp/pull/3) in [AY2021S1-CS2103T-T13-2/tp](https://github.com//AY2021S1-CS2103T-T13-2/tp)
+3. 🎉 Merged PR [#2](https://github.com//ChenXJ98/ip/pull/2) in [ChenXJ98/ip](https://github.com//ChenXJ98/ip)
+4. 💪 Opened PR [#2](https://github.com//ChenXJ98/ip/pull/2) in [ChenXJ98/ip](https://github.com//ChenXJ98/ip)
+5. 🎉 Merged PR [#1](https://github.com//ChenXJ98/ip/pull/1) in [ChenXJ98/ip](https://github.com//ChenXJ98/ip)
 <!--END_SECTION:activity-->
 
 </details>
