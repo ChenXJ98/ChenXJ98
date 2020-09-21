@@ -2,7 +2,7 @@
 
 ## I'm a Computer Science Student, and an aspiring Developer!
 
-- 🔭 I’m currently working on [Task Bot Project][taskbot]
+- 🔭 I’m currently working on [QuickCache, a desktop app for managing flashcards][taskbot]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -57,7 +57,7 @@
 </details>
 
 [github]: https://github.com/ChenXJ98
-[taskbot]: https://github.com/ChenXJ98/ip
+[taskbot]: https://github.com/AY2021S1-CS2103T-T13-2/tp
 [twitter]: https://twitter.com/XingjianChen
 [youtube]: https://www.youtube.com/channel/UCX7GZyagYbP-Ge90EII-0-g
 [instagram]: https://www.instagram.com/whatxingjianwhat
