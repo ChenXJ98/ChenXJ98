@@ -40,11 +40,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#158](https://github.com/AY2021S1-CS2103T-T13-2/tp/pull/158) in [AY2021S1-CS2103T-T13-2/tp](https://github.com/AY2021S1-CS2103T-T13-2/tp)
-2. ❗️ Closed issue [#157](https://github.com/AY2021S1-CS2103T-T13-2/tp/issues/157) in [AY2021S1-CS2103T-T13-2/tp](https://github.com/AY2021S1-CS2103T-T13-2/tp)
-3. 💪 Opened PR [#158](https://github.com/AY2021S1-CS2103T-T13-2/tp/pull/158) in [AY2021S1-CS2103T-T13-2/tp](https://github.com/AY2021S1-CS2103T-T13-2/tp)
-4. ❗️ Opened issue [#157](https://github.com/AY2021S1-CS2103T-T13-2/tp/issues/157) in [AY2021S1-CS2103T-T13-2/tp](https://github.com/AY2021S1-CS2103T-T13-2/tp)
-5. 🎉 Merged PR [#156](https://github.com/AY2021S1-CS2103T-T13-2/tp/pull/156) in [AY2021S1-CS2103T-T13-2/tp](https://github.com/AY2021S1-CS2103T-T13-2/tp)
+1. 🎉 Merged PR [#159](https://github.com/AY2021S1-CS2103T-T13-2/tp/pull/159) in [AY2021S1-CS2103T-T13-2/tp](https://github.com/AY2021S1-CS2103T-T13-2/tp)
+2. ❗️ Closed issue [#142](https://github.com/AY2021S1-CS2103T-T13-2/tp/issues/142) in [AY2021S1-CS2103T-T13-2/tp](https://github.com/AY2021S1-CS2103T-T13-2/tp)
+3. 🎉 Merged PR [#153](https://github.com/AY2021S1-CS2103T-T13-2/tp/pull/153) in [AY2021S1-CS2103T-T13-2/tp](https://github.com/AY2021S1-CS2103T-T13-2/tp)
+4. ❗️ Closed issue [#108](https://github.com/AY2021S1-CS2103T-T13-2/tp/issues/108) in [AY2021S1-CS2103T-T13-2/tp](https://github.com/AY2021S1-CS2103T-T13-2/tp)
+5. 🎉 Merged PR [#151](https://github.com/AY2021S1-CS2103T-T13-2/tp/pull/151) in [AY2021S1-CS2103T-T13-2/tp](https://github.com/AY2021S1-CS2103T-T13-2/tp)
 <!--END_SECTION:activity-->
 
 </details>
