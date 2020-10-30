@@ -40,11 +40,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/ChenXJ98/ped/issues/4) in [ChenXJ98/ped](https://github.com/ChenXJ98/ped)
-2. ❗️ Opened issue [#3](https://github.com/ChenXJ98/ped/issues/3) in [ChenXJ98/ped](https://github.com/ChenXJ98/ped)
-3. ❗️ Opened issue [#2](https://github.com/ChenXJ98/ped/issues/2) in [ChenXJ98/ped](https://github.com/ChenXJ98/ped)
-4. ❗️ Opened issue [#1](https://github.com/ChenXJ98/ped/issues/1) in [ChenXJ98/ped](https://github.com/ChenXJ98/ped)
-5. 🎉 Merged PR [#175](https://github.com/AY2021S1-CS2103T-T13-2/tp/pull/175) in [AY2021S1-CS2103T-T13-2/tp](https://github.com/AY2021S1-CS2103T-T13-2/tp)
+1. ❗️ Opened issue [#5](https://github.com/ChenXJ98/ped/issues/5) in [ChenXJ98/ped](https://github.com/ChenXJ98/ped)
+2. ❗️ Opened issue [#4](https://github.com/ChenXJ98/ped/issues/4) in [ChenXJ98/ped](https://github.com/ChenXJ98/ped)
+3. ❗️ Opened issue [#3](https://github.com/ChenXJ98/ped/issues/3) in [ChenXJ98/ped](https://github.com/ChenXJ98/ped)
+4. ❗️ Opened issue [#2](https://github.com/ChenXJ98/ped/issues/2) in [ChenXJ98/ped](https://github.com/ChenXJ98/ped)
+5. ❗️ Opened issue [#1](https://github.com/ChenXJ98/ped/issues/1) in [ChenXJ98/ped](https://github.com/ChenXJ98/ped)
 <!--END_SECTION:activity-->
 
 </details>
