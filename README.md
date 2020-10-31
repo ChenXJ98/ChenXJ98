@@ -40,11 +40,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#200](https://github.com/AY2021S1-CS2103T-T13-2/tp/pull/200) in [AY2021S1-CS2103T-T13-2/tp](https://github.com/AY2021S1-CS2103T-T13-2/tp)
-2. ❗️ Closed issue [#196](https://github.com/AY2021S1-CS2103T-T13-2/tp/issues/196) in [AY2021S1-CS2103T-T13-2/tp](https://github.com/AY2021S1-CS2103T-T13-2/tp)
-3. ❗️ Closed issue [#191](https://github.com/AY2021S1-CS2103T-T13-2/tp/issues/191) in [AY2021S1-CS2103T-T13-2/tp](https://github.com/AY2021S1-CS2103T-T13-2/tp)
-4. ❗️ Closed issue [#190](https://github.com/AY2021S1-CS2103T-T13-2/tp/issues/190) in [AY2021S1-CS2103T-T13-2/tp](https://github.com/AY2021S1-CS2103T-T13-2/tp)
-5. ❗️ Closed issue [#179](https://github.com/AY2021S1-CS2103T-T13-2/tp/issues/179) in [AY2021S1-CS2103T-T13-2/tp](https://github.com/AY2021S1-CS2103T-T13-2/tp)
+1. 🗣 Commented on [#1](https://github.com/BILLXYR/ped/issues/1) in [BILLXYR/ped](https://github.com/BILLXYR/ped)
+2. 🗣 Commented on [#187](https://github.com/AY2021S1-CS2103T-T13-2/tp/issues/187) in [AY2021S1-CS2103T-T13-2/tp](https://github.com/AY2021S1-CS2103T-T13-2/tp)
+3. 💪 Opened PR [#204](https://github.com/AY2021S1-CS2103T-T13-2/tp/pull/204) in [AY2021S1-CS2103T-T13-2/tp](https://github.com/AY2021S1-CS2103T-T13-2/tp)
+4. 🎉 Merged PR [#201](https://github.com/AY2021S1-CS2103T-T13-2/tp/pull/201) in [AY2021S1-CS2103T-T13-2/tp](https://github.com/AY2021S1-CS2103T-T13-2/tp)
+5. ❗️ Closed issue [#183](https://github.com/AY2021S1-CS2103T-T13-2/tp/issues/183) in [AY2021S1-CS2103T-T13-2/tp](https://github.com/AY2021S1-CS2103T-T13-2/tp)
 <!--END_SECTION:activity-->
 
 </details>
