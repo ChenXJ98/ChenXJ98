@@ -40,11 +40,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/ChenXJ98/ped/issues/5) in [ChenXJ98/ped](https://github.com/ChenXJ98/ped)
-2. ❗️ Opened issue [#4](https://github.com/ChenXJ98/ped/issues/4) in [ChenXJ98/ped](https://github.com/ChenXJ98/ped)
-3. ❗️ Opened issue [#3](https://github.com/ChenXJ98/ped/issues/3) in [ChenXJ98/ped](https://github.com/ChenXJ98/ped)
-4. ❗️ Opened issue [#2](https://github.com/ChenXJ98/ped/issues/2) in [ChenXJ98/ped](https://github.com/ChenXJ98/ped)
-5. ❗️ Opened issue [#1](https://github.com/ChenXJ98/ped/issues/1) in [ChenXJ98/ped](https://github.com/ChenXJ98/ped)
+1. 🎉 Merged PR [#200](https://github.com/AY2021S1-CS2103T-T13-2/tp/pull/200) in [AY2021S1-CS2103T-T13-2/tp](https://github.com/AY2021S1-CS2103T-T13-2/tp)
+2. ❗️ Closed issue [#196](https://github.com/AY2021S1-CS2103T-T13-2/tp/issues/196) in [AY2021S1-CS2103T-T13-2/tp](https://github.com/AY2021S1-CS2103T-T13-2/tp)
+3. ❗️ Closed issue [#191](https://github.com/AY2021S1-CS2103T-T13-2/tp/issues/191) in [AY2021S1-CS2103T-T13-2/tp](https://github.com/AY2021S1-CS2103T-T13-2/tp)
+4. ❗️ Closed issue [#190](https://github.com/AY2021S1-CS2103T-T13-2/tp/issues/190) in [AY2021S1-CS2103T-T13-2/tp](https://github.com/AY2021S1-CS2103T-T13-2/tp)
+5. ❗️ Closed issue [#179](https://github.com/AY2021S1-CS2103T-T13-2/tp/issues/179) in [AY2021S1-CS2103T-T13-2/tp](https://github.com/AY2021S1-CS2103T-T13-2/tp)
 <!--END_SECTION:activity-->
 
 </details>
