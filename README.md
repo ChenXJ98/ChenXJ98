@@ -40,11 +40,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#204](https://github.com/AY2021S1-CS2103T-T13-2/tp/pull/204) in [AY2021S1-CS2103T-T13-2/tp](https://github.com/AY2021S1-CS2103T-T13-2/tp)
-2. ❗️ Closed issue [#187](https://github.com/AY2021S1-CS2103T-T13-2/tp/issues/187) in [AY2021S1-CS2103T-T13-2/tp](https://github.com/AY2021S1-CS2103T-T13-2/tp)
-3. 🗣 Commented on [#1](https://github.com/seantaysl/ped/issues/1) in [seantaysl/ped](https://github.com/seantaysl/ped)
-4. 🗣 Commented on [#181](https://github.com/AY2021S1-CS2103T-T13-2/tp/issues/181) in [AY2021S1-CS2103T-T13-2/tp](https://github.com/AY2021S1-CS2103T-T13-2/tp)
-5. 🗣 Commented on [#4](https://github.com/seantaysl/ped/issues/4) in [seantaysl/ped](https://github.com/seantaysl/ped)
+1. 🎉 Merged PR [#211](https://github.com/AY2021S1-CS2103T-T13-2/tp/pull/211) in [AY2021S1-CS2103T-T13-2/tp](https://github.com/AY2021S1-CS2103T-T13-2/tp)
+2. 🎉 Merged PR [#203](https://github.com/AY2021S1-CS2103T-T13-2/tp/pull/203) in [AY2021S1-CS2103T-T13-2/tp](https://github.com/AY2021S1-CS2103T-T13-2/tp)
+3. 🎉 Merged PR [#205](https://github.com/AY2021S1-CS2103T-T13-2/tp/pull/205) in [AY2021S1-CS2103T-T13-2/tp](https://github.com/AY2021S1-CS2103T-T13-2/tp)
+4. ❗️ Closed issue [#181](https://github.com/AY2021S1-CS2103T-T13-2/tp/issues/181) in [AY2021S1-CS2103T-T13-2/tp](https://github.com/AY2021S1-CS2103T-T13-2/tp)
+5. ❗️ Closed issue [#184](https://github.com/AY2021S1-CS2103T-T13-2/tp/issues/184) in [AY2021S1-CS2103T-T13-2/tp](https://github.com/AY2021S1-CS2103T-T13-2/tp)
 <!--END_SECTION:activity-->
 
 </details>
