@@ -40,11 +40,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/ChenXJ98/pe/issues/2) in [ChenXJ98/pe](https://github.com/ChenXJ98/pe)
-2. ❗️ Opened issue [#1](https://github.com/ChenXJ98/pe/issues/1) in [ChenXJ98/pe](https://github.com/ChenXJ98/pe)
-3. 🎉 Merged PR [#297](https://github.com/AY2021S1-CS2103T-T13-2/tp/pull/297) in [AY2021S1-CS2103T-T13-2/tp](https://github.com/AY2021S1-CS2103T-T13-2/tp)
-4. 💪 Opened PR [#297](https://github.com/AY2021S1-CS2103T-T13-2/tp/pull/297) in [AY2021S1-CS2103T-T13-2/tp](https://github.com/AY2021S1-CS2103T-T13-2/tp)
-5. 🎉 Merged PR [#293](https://github.com/AY2021S1-CS2103T-T13-2/tp/pull/293) in [AY2021S1-CS2103T-T13-2/tp](https://github.com/AY2021S1-CS2103T-T13-2/tp)
+1. ❗️ Opened issue [#7](https://github.com/ChenXJ98/pe/issues/7) in [ChenXJ98/pe](https://github.com/ChenXJ98/pe)
+2. ❗️ Opened issue [#6](https://github.com/ChenXJ98/pe/issues/6) in [ChenXJ98/pe](https://github.com/ChenXJ98/pe)
+3. ❗️ Opened issue [#5](https://github.com/ChenXJ98/pe/issues/5) in [ChenXJ98/pe](https://github.com/ChenXJ98/pe)
+4. ❗️ Opened issue [#4](https://github.com/ChenXJ98/pe/issues/4) in [ChenXJ98/pe](https://github.com/ChenXJ98/pe)
+5. ❗️ Opened issue [#3](https://github.com/ChenXJ98/pe/issues/3) in [ChenXJ98/pe](https://github.com/ChenXJ98/pe)
 <!--END_SECTION:activity-->
 
 </details>
