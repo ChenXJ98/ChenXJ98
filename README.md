@@ -40,11 +40,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/ChenXJ98/pe/issues/7) in [ChenXJ98/pe](https://github.com/ChenXJ98/pe)
-2. ❗️ Opened issue [#6](https://github.com/ChenXJ98/pe/issues/6) in [ChenXJ98/pe](https://github.com/ChenXJ98/pe)
-3. ❗️ Opened issue [#5](https://github.com/ChenXJ98/pe/issues/5) in [ChenXJ98/pe](https://github.com/ChenXJ98/pe)
-4. ❗️ Opened issue [#4](https://github.com/ChenXJ98/pe/issues/4) in [ChenXJ98/pe](https://github.com/ChenXJ98/pe)
-5. ❗️ Opened issue [#3](https://github.com/ChenXJ98/pe/issues/3) in [ChenXJ98/pe](https://github.com/ChenXJ98/pe)
+1. 🗣 Commented on [#3657](https://github.com/nus-cs2103-AY2021S1/pe-dev-response/issues/3657) in [nus-cs2103-AY2021S1/pe-dev-response](https://github.com/nus-cs2103-AY2021S1/pe-dev-response)
+2. 🗣 Commented on [#3686](https://github.com/nus-cs2103-AY2021S1/pe-dev-response/issues/3686) in [nus-cs2103-AY2021S1/pe-dev-response](https://github.com/nus-cs2103-AY2021S1/pe-dev-response)
+3. ❗️ Opened issue [#7](https://github.com/ChenXJ98/pe/issues/7) in [ChenXJ98/pe](https://github.com/ChenXJ98/pe)
+4. ❗️ Opened issue [#6](https://github.com/ChenXJ98/pe/issues/6) in [ChenXJ98/pe](https://github.com/ChenXJ98/pe)
+5. ❗️ Opened issue [#5](https://github.com/ChenXJ98/pe/issues/5) in [ChenXJ98/pe](https://github.com/ChenXJ98/pe)
 <!--END_SECTION:activity-->
 
 </details>
