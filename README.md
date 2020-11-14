@@ -40,11 +40,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3657](https://github.com/nus-cs2103-AY2021S1/pe-dev-response/issues/3657) in [nus-cs2103-AY2021S1/pe-dev-response](https://github.com/nus-cs2103-AY2021S1/pe-dev-response)
-2. 🗣 Commented on [#3686](https://github.com/nus-cs2103-AY2021S1/pe-dev-response/issues/3686) in [nus-cs2103-AY2021S1/pe-dev-response](https://github.com/nus-cs2103-AY2021S1/pe-dev-response)
-3. ❗️ Opened issue [#7](https://github.com/ChenXJ98/pe/issues/7) in [ChenXJ98/pe](https://github.com/ChenXJ98/pe)
-4. ❗️ Opened issue [#6](https://github.com/ChenXJ98/pe/issues/6) in [ChenXJ98/pe](https://github.com/ChenXJ98/pe)
-5. ❗️ Opened issue [#5](https://github.com/ChenXJ98/pe/issues/5) in [ChenXJ98/pe](https://github.com/ChenXJ98/pe)
+1. 🗣 Commented on [#3684](https://github.com/nus-cs2103-AY2021S1/pe-dev-response/issues/3684) in [nus-cs2103-AY2021S1/pe-dev-response](https://github.com/nus-cs2103-AY2021S1/pe-dev-response)
+2. 🗣 Commented on [#3620](https://github.com/nus-cs2103-AY2021S1/pe-dev-response/issues/3620) in [nus-cs2103-AY2021S1/pe-dev-response](https://github.com/nus-cs2103-AY2021S1/pe-dev-response)
+3. 🗣 Commented on [#3619](https://github.com/nus-cs2103-AY2021S1/pe-dev-response/issues/3619) in [nus-cs2103-AY2021S1/pe-dev-response](https://github.com/nus-cs2103-AY2021S1/pe-dev-response)
+4. 🗣 Commented on [#3657](https://github.com/nus-cs2103-AY2021S1/pe-dev-response/issues/3657) in [nus-cs2103-AY2021S1/pe-dev-response](https://github.com/nus-cs2103-AY2021S1/pe-dev-response)
+5. 🗣 Commented on [#3686](https://github.com/nus-cs2103-AY2021S1/pe-dev-response/issues/3686) in [nus-cs2103-AY2021S1/pe-dev-response](https://github.com/nus-cs2103-AY2021S1/pe-dev-response)
 <!--END_SECTION:activity-->
 
 </details>
