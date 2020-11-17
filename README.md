@@ -2,6 +2,8 @@
 
 ## I'm a Computer Science Student, and an aspiring Developer!
 
+[![DinoGame](https://github.com/ChenXJ98/ChenXJ98/blob/master/running_dino.gif)](http://wayou.github.io/t-rex-runner/)
+
 - 🔭 I’m currently working on [QuickCache, a desktop app for managing flashcards][taskbot]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -9,8 +11,6 @@
 - ⚡ Fun fact: I love to draw , play piano and fence 🤺
 
 ---
-
-[![DinoGame](http://wayou.github.io/t-rex-runner/)](http://wayou.github.io/t-rex-runner/)
 
 ### Spotify Playing 🎧
 
