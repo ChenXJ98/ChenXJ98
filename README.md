@@ -42,11 +42,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#81](https://github.com/AY2021S1-CS2103T-T13-2/tp/pull/81) in [AY2021S1-CS2103T-T13-2/tp](https://github.com/AY2021S1-CS2103T-T13-2/tp)
-2. ❗️ Closed issue [#78](https://github.com/AY2021S1-CS2103T-T13-2/tp/issues/78) in [AY2021S1-CS2103T-T13-2/tp](https://github.com/AY2021S1-CS2103T-T13-2/tp)
-3. ❗️ Closed issue [#48](https://github.com/AY2021S1-CS2103T-T13-2/tp/issues/48) in [AY2021S1-CS2103T-T13-2/tp](https://github.com/AY2021S1-CS2103T-T13-2/tp)
-4. 🎉 Merged PR [#80](https://github.com/AY2021S1-CS2103T-T13-2/tp/pull/80) in [AY2021S1-CS2103T-T13-2/tp](https://github.com/AY2021S1-CS2103T-T13-2/tp)
-5. 🎉 Merged PR [#79](https://github.com/AY2021S1-CS2103T-T13-2/tp/pull/79) in [AY2021S1-CS2103T-T13-2/tp](https://github.com/AY2021S1-CS2103T-T13-2/tp)
+1. 🗣 Commented on [#3652](https://github.com/nus-cs2103-AY2021S1/pe-dev-response/issues/3652) in [nus-cs2103-AY2021S1/pe-dev-response](https://github.com/nus-cs2103-AY2021S1/pe-dev-response)
+2. 🗣 Commented on [#3663](https://github.com/nus-cs2103-AY2021S1/pe-dev-response/issues/3663) in [nus-cs2103-AY2021S1/pe-dev-response](https://github.com/nus-cs2103-AY2021S1/pe-dev-response)
+3. 🗣 Commented on [#3684](https://github.com/nus-cs2103-AY2021S1/pe-dev-response/issues/3684) in [nus-cs2103-AY2021S1/pe-dev-response](https://github.com/nus-cs2103-AY2021S1/pe-dev-response)
+4. 🗣 Commented on [#3620](https://github.com/nus-cs2103-AY2021S1/pe-dev-response/issues/3620) in [nus-cs2103-AY2021S1/pe-dev-response](https://github.com/nus-cs2103-AY2021S1/pe-dev-response)
+5. 🗣 Commented on [#3619](https://github.com/nus-cs2103-AY2021S1/pe-dev-response/issues/3619) in [nus-cs2103-AY2021S1/pe-dev-response](https://github.com/nus-cs2103-AY2021S1/pe-dev-response)
 <!--END_SECTION:activity-->
 
 </details>
