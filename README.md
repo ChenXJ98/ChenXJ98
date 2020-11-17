@@ -10,6 +10,8 @@
 
 ---
 
+[![DinoGame](http://wayou.github.io/t-rex-runner/)](http://wayou.github.io/t-rex-runner/)
+
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.chenxj98.vercel.app/api/spotify)](https://open.spotify.com/user/11158349923)
