@@ -42,11 +42,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3652](https://github.com/nus-cs2103-AY2021S1/pe-dev-response/issues/3652) in [nus-cs2103-AY2021S1/pe-dev-response](https://github.com/nus-cs2103-AY2021S1/pe-dev-response)
-2. 🗣 Commented on [#3663](https://github.com/nus-cs2103-AY2021S1/pe-dev-response/issues/3663) in [nus-cs2103-AY2021S1/pe-dev-response](https://github.com/nus-cs2103-AY2021S1/pe-dev-response)
-3. 🗣 Commented on [#3684](https://github.com/nus-cs2103-AY2021S1/pe-dev-response/issues/3684) in [nus-cs2103-AY2021S1/pe-dev-response](https://github.com/nus-cs2103-AY2021S1/pe-dev-response)
-4. 🗣 Commented on [#3620](https://github.com/nus-cs2103-AY2021S1/pe-dev-response/issues/3620) in [nus-cs2103-AY2021S1/pe-dev-response](https://github.com/nus-cs2103-AY2021S1/pe-dev-response)
-5. 🗣 Commented on [#3619](https://github.com/nus-cs2103-AY2021S1/pe-dev-response/issues/3619) in [nus-cs2103-AY2021S1/pe-dev-response](https://github.com/nus-cs2103-AY2021S1/pe-dev-response)
+1. 🎉 Merged PR [#2](https://github.com/choongzhanhong/parasitegit/pull/2) in [choongzhanhong/parasitegit](https://github.com/choongzhanhong/parasitegit)
+2. 💪 Opened PR [#2](https://github.com/choongzhanhong/parasitegit/pull/2) in [choongzhanhong/parasitegit](https://github.com/choongzhanhong/parasitegit)
+3. 🎉 Merged PR [#1](https://github.com/choongzhanhong/parasitegit/pull/1) in [choongzhanhong/parasitegit](https://github.com/choongzhanhong/parasitegit)
+4. 🗣 Commented on [#1](https://github.com/choongzhanhong/parasitegit/issues/1) in [choongzhanhong/parasitegit](https://github.com/choongzhanhong/parasitegit)
+5. 💪 Opened PR [#1](https://github.com/choongzhanhong/parasitegit/pull/1) in [choongzhanhong/parasitegit](https://github.com/choongzhanhong/parasitegit)
 <!--END_SECTION:activity-->
 
 </details>
