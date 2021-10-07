@@ -2,7 +2,7 @@
 
 ## I'm a Computer Science Student, and an aspiring Developer!
 
-[![DinoGame](https://github.com/ChenXJ98/ChenXJ98/blob/master/running_dino.gif)](http://wayou.github.io/t-rex-runner/)
+[![DinoGame](https://github.com/ChenXJ98/ChenXJ98/blob/master/music_pegasus.gif)](http://wayou.github.io/t-rex-runner/)
 
 - 🔭 I’m currently working on [a game - Parasite, a top down 2d shooter][taskbot]
 - 🌱 I’m currently learning everything 🤣
