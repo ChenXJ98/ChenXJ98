@@ -4,7 +4,7 @@
 
 [![DinoGame](https://github.com/ChenXJ98/ChenXJ98/blob/master/running_dino.gif)](http://wayou.github.io/t-rex-runner/)
 
-- 🔭 I’m currently working on [QuickCache, a desktop app for managing flashcards][taskbot]
+- 🔭 I’m currently working on [a game - Parasite, a top down 2d shooter][taskbot]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
@@ -59,7 +59,7 @@
 </details>
 
 [github]: https://github.com/ChenXJ98
-[taskbot]: https://github.com/AY2021S1-CS2103T-T13-2/tp
+[taskbot]: https://github.com/ChenXJ98/parasitegit
 [twitter]: https://twitter.com/XingjianChen
 [youtube]: https://www.youtube.com/channel/UCX7GZyagYbP-Ge90EII-0-g
 [instagram]: https://www.instagram.com/whatxingjianwhat
