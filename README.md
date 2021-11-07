@@ -42,11 +42,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#44](https://github.com/choongzhanhong/parasitegit/pull/44) in [choongzhanhong/parasitegit](https://github.com/choongzhanhong/parasitegit)
-2. 💪 Opened PR [#44](https://github.com/choongzhanhong/parasitegit/pull/44) in [choongzhanhong/parasitegit](https://github.com/choongzhanhong/parasitegit)
-3. 🎉 Merged PR [#43](https://github.com/choongzhanhong/parasitegit/pull/43) in [choongzhanhong/parasitegit](https://github.com/choongzhanhong/parasitegit)
-4. 💪 Opened PR [#43](https://github.com/choongzhanhong/parasitegit/pull/43) in [choongzhanhong/parasitegit](https://github.com/choongzhanhong/parasitegit)
-5. 🎉 Merged PR [#42](https://github.com/choongzhanhong/parasitegit/pull/42) in [choongzhanhong/parasitegit](https://github.com/choongzhanhong/parasitegit)
+1. 🎉 Merged PR [#45](https://github.com/choongzhanhong/parasitegit/pull/45) in [choongzhanhong/parasitegit](https://github.com/choongzhanhong/parasitegit)
+2. 💪 Opened PR [#45](https://github.com/choongzhanhong/parasitegit/pull/45) in [choongzhanhong/parasitegit](https://github.com/choongzhanhong/parasitegit)
+3. 🎉 Merged PR [#44](https://github.com/choongzhanhong/parasitegit/pull/44) in [choongzhanhong/parasitegit](https://github.com/choongzhanhong/parasitegit)
+4. 💪 Opened PR [#44](https://github.com/choongzhanhong/parasitegit/pull/44) in [choongzhanhong/parasitegit](https://github.com/choongzhanhong/parasitegit)
+5. 🎉 Merged PR [#43](https://github.com/choongzhanhong/parasitegit/pull/43) in [choongzhanhong/parasitegit](https://github.com/choongzhanhong/parasitegit)
 <!--END_SECTION:activity-->
 
 </details>
